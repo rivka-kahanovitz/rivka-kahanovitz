@@ -1,9 +1,9 @@
 # Welcome to My GitHub Profile 👋
 
 ## 🌟 About Me
-Full Stack Developer with strong expertise in **C#**, **React**, and modern web technologies.  
-I am passionate about building **scalable, reliable, and user-friendly solutions**, with a deep attention to detail and high standards for code quality.  
-Known for **analytical thinking, persistence, and the ability to dive deep** into complex problems to deliver efficient and maintainable results.
+Full Stack Developer with experience in building web applications using modern technologies.  
+Passionate about creating **scalable, efficient, and user-friendly solutions**, with a focus on **deep understanding and attention to detail**.  
+Specialized in **C#** and .NET, with solid knowledge in both backend and frontend development.
 
 ## 🛠 Tech Stack
 ### **Languages**
@@ -33,8 +33,8 @@ Known for **analytical thinking, persistence, and the ability to dive deep** int
 ---
 
 ## 📂 Projects
-### 🔹 [SmartShopping](https://github.com/rivka-kahanovitz/SmartShopping-React)
-### 🔹 [SmartShopping](https://github.com/rivka-kahanovitz/smartShopping-csharp)
+### 🔹 [SmartShopping-React](https://github.com/rivka-kahanovitz/SmartShopping-React)
+### 🔹 [SmartShopping-C#](https://github.com/rivka-kahanovitz/smartShopping-csharp)
 
 An intelligent web application that compares shopping cart prices across multiple stores, helping users choose the most cost-effective option.  
 Built with a robust tech stack including React, C#, SQL Server, and JWT for secure authentication.  
