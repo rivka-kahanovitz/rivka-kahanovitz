@@ -2,8 +2,8 @@
 
 ## 🌟 About Me
 Full Stack Developer with experience in building web applications using modern technologies.  
-Passionate about creating **scalable, efficient, and user-friendly solutions**, with a focus on **deep understanding and attention to detail**.  
-Specialized in **C#** and .NET, with solid knowledge in both backend and frontend development.
+Passionate about creating scalable, efficient, and user-friendly solutions, with a focus on **deep understanding and attention to detail**.  
+Specialized in **C#**, **React** and **.NET**, with solid knowledge in both backend and frontend development.
 
 ## 🛠 Tech Stack
 ### **Languages**
