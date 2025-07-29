@@ -33,10 +33,8 @@ Known for **analytical thinking, persistence, and the ability to dive deep** int
 ---
 
 ## 📂 Projects
-### 🔹 [SmartShopping](https://github.com/rivka-kahanovitz/SmartShopping-React
-)
-### 🔹 [SmartShopping](https://github.com/rivka-kahanovitz/smartShopping-csharp
-)
+### 🔹 [SmartShopping](https://github.com/rivka-kahanovitz/SmartShopping-React)
+### 🔹 [SmartShopping](https://github.com/rivka-kahanovitz/smartShopping-csharp)
 
 An intelligent web application that compares shopping cart prices across multiple stores, helping users choose the most cost-effective option.  
 Built with a robust tech stack including React, C#, SQL Server, and JWT for secure authentication.  
